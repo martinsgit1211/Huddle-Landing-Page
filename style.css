@@ -10,7 +10,9 @@ nav{
 header{
     padding: 2em;
     background-image: url(./images/bg-hero-desktop.svg);
-    background-color: rgba(127, 255, 212, 0.419);
+    background-color: rgba(12, 175, 1, 0.419);
+    /* background-color: rgba(12, 175, 1, 0.419); */
+    /* balh blah bakabaha */
 }
 .logo{
     width: 260px;
